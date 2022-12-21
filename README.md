@@ -1,9 +1,9 @@
 <h1 align="center">oi meu nome é Raul Henrique</h1>
-- Atualmente estou aprendendo Javascript e Nodejs
+-👨‍💻 Atualmente estou estudando sobre Programação
 
 - Me pergunte sobre **html e css**
 
-- Você me acha através do e-mail **raulhenrique220405@gmail.com**
+- 📩 Você me acha através do e-mail **raulhenrique220405@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
