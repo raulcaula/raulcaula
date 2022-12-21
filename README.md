@@ -1,5 +1,5 @@
 <h1 align="center">oi meu nome é Raul Henrique</h1>
-- Atualmente estou aprendendo **Javascript e Nodejs**
+- Atualmente estou aprendendo Javascript e Nodejs
 
 - Me pergunte sobre **html e css**
 
